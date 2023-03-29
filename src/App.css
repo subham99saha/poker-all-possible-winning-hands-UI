@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+card-t img {
+    /*  can style IMG created by Custom Element */
+/*    border: 3px solid greenyellow;*/
+/*    transform: rotate(15deg);*/
+    height: auto;
+    width: 100%;
+/*    filter: grayscale(); */
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
